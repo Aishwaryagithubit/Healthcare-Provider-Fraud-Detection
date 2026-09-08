@@ -252,7 +252,4 @@ Human review should remain part of the process, particularly when predictions co
 
 ## Author
 
-Developed as a machine learning project focused on healthcare fraud detection, model evaluation, and practical deployment.
-
-
-make the repository look much more professional.
+Aishwarya Sah
