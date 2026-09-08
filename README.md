@@ -1,5 +1,6 @@
 # Healthcare Fraud Detection Using Machine Learning
 
+[▶️ Watch the Demo Video](./demo/demo_fraud.mp4)
 ## Live Demo : https://healthcare-provider-fraud-detection.onrender.com/
 ## Dataset : https://www.kaggle.com/datasets/nudratabbas/healthcare-fraud-detection-dataset
 
