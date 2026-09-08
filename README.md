@@ -4,6 +4,9 @@ A machine learning system for identifying potentially fraudulent healthcare clai
 
 The project develops and compares three supervised classification models — Logistic Regression, Random Forest, and Gradient Boosting — followed by a Soft Voting Ensemble. The workflow covers data preparation, feature engineering, preprocessing, model tuning, threshold optimisation, evaluation, and deployment through Streamlit.
 
+## Live Demo : https://healthcare-provider-fraud-detection.onrender.com/
+## Dataset : https://www.kaggle.com/datasets/nudratabbas/healthcare-fraud-detection-dataset
+
 ## Overview
 
 Healthcare fraud can result in significant financial losses and can be difficult to identify using manual rule-based checks alone. This project explores how machine learning can identify patterns associated with potentially fraudulent claims.
