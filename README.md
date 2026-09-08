@@ -250,30 +250,5 @@ Human review should remain part of the process, particularly when predictions co
 
 Developed as a machine learning project focused on healthcare fraud detection, model evaluation, and practical deployment.
 
-````
 
-### One change I strongly recommend
-
-Don't put the actual **10,000-row dataset** or the generated `.pkl` blindly into GitHub if the dataset is not yours to redistribute.
-
-For a portfolio repository, this is cleaner:
-
-```text
-data/
-└── README.md
-````
-
-and explain where the dataset comes from or provide instructions for obtaining it.
-
-Also, **don't put `venv/`, `__pycache__/`, or notebook-generated temporary files into GitHub**. Add a `.gitignore`:
-
-```gitignore
-venv/
-.venv/
-__pycache__/
-*.pyc
-.ipynb_checkpoints/
-.DS_Store
-```
-
-This will make the repository look much more professional.
+make the repository look much more professional.
